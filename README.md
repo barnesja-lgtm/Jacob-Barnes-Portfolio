@@ -1,2 +1,2 @@
-# Jacob-Barnes-Portfolio[
-My Portfolio](https//example…) 
+# Jacob-Barnes-Portfolio
+[My Portfolio](https//example…) 
