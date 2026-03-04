@@ -19,13 +19,6 @@
 .history div {
   font-size: medium;
 }
-.buttons div {
-    background-color:darkgray;
-    overflow: hidden;
-    width:fit-content;
-    padding: 1%;
-    border-radius:1cm ;
-}
 .upsideDown {
   transform: rotate(180deg);
   display: inline-block; 

@@ -23,3 +23,18 @@
     text-decoration: underline;
 
 }
+.screenshot {
+  width: 700px;
+}
+p {
+ font-size: 150%;
+ 
+}
+.Project1P1-flex-display {
+  display: flex;
+  padding: 1px;
+  margin: 100px;
+}
+.ProjectIntro {
+  text-align: center;
+}
