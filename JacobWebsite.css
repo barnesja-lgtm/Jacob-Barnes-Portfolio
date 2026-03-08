@@ -38,3 +38,7 @@ p {
 .ProjectIntro {
   text-align: center;
 }
+body {
+  background-color:rgb(100, 128, 110);
+  color: #f2f2f2;
+}
