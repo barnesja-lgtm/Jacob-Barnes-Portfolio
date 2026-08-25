@@ -35,10 +35,23 @@ p {
   padding: 1px;
   margin: 100px;
 }
+.screenshot2 {
+  width: 700px;
+  
+}
 .ProjectIntro {
   text-align: center;
 }
 body {
   background-color:rgb(100, 128, 110);
   color: #f2f2f2;
+  font-family: Soda;
 }
+
+@font-face {
+  font-family: Soda;
+  src: url("GrapeSoda.ttf");
+}
+
+
+
